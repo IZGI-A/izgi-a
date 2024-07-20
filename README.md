@@ -1,8 +1,8 @@
 
 ## Hi there 👋
 <p align="center">
-  <img alight=left width="46%" height="200" src="https://github-readme-stats.vercel.app/api?username=IZGI-A&show_icons=true">
-  <img  width="46%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZGI-A&size_weight=0.0005&count_weight=0.3&layout=compact">
+  <img alight=left width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=IZGI-A&show_icons=true">
+  <img  width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZGI-A&size_weight=0.0005&count_weight=0.3&layout=compact">
 </p>
 <p align="center">
   <img width="" height="220" src="https://streak-stats.demolab.com?user=IZGI-A&hide_border=false&border_radius=5&card_width=800">
