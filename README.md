@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=IZGI-A&style=for-the-badge&color=06D001" alt=""/>
 </div>
 
+![snake gif](https://github.com/IZGI-A/IZGI-A/blob/output/github-contribution-grid-snake.gif)
+
+
 <!--
 **IZGI-A/izgi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
