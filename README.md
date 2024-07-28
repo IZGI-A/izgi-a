@@ -12,12 +12,6 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=IZGI-A&style=for-the-badge&color=3FA2F6" alt=""/>
-</div>
-
-
-
 
 <!--
 **IZGI-A/izgi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=IZGI-A&style=for-the-badge&color=3FA2F6" alt=""/>
+</div>
 -->
